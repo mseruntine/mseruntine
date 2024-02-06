@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Miguel Seruntine, I'm an LSU '24 Computer Science major with a concentration in Software Engineering. I have 3 years of professional development experience, including web application projects built in Javascript, React.js, Microsoft .NET Framework, Typescript, PHP, and of course HTML and CSS. 
+
+I have a lot of interests, and when I'm not working on being a better developer during the weekday, I'm playing music professionally on the weekends! Wahoo!
+
+I've included a repository to a project I was a part of for my senior year software implementation class. This project was something I was super proud of, and I had a blast being able to help design and implement the front-end of the application.
+
 <!--
 **mseruntine/mseruntine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
