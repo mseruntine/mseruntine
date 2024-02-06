@@ -4,7 +4,7 @@ My name is Miguel Seruntine, I'm a LSU '24 Computer Science major with a concent
 
 I have a lot of interests, and when I'm not working on being a better developer during the weekday, I'm playing music professionally on the weekends in my favorite city on the planet, New Orleans, Louisiana. 
 
-I've included a repository to a project I was a part of for my senior year software implementation class. This project was something I was super proud of, and I had a thoroughly being able to help design and implement the front-end of the application. My collegeus I worked alongside with to work on the application were Bryce Doyle (Team lead), Calvin Feldt (Front-end design, implementation), and Nick Caplette (Datebase, back-end design and implementation).
+I've included a repository to a project I was a part of for my senior year software implementation class. This project was something I was super proud of, and I thoroughly enjoyed being able to help design and implement the front-end of the application. My collegeus I worked alongside with to work on the application were Bryce Doyle (Team lead), Calvin Feldt (Front-end design, implementation), and Nick Caplette (Datebase, back-end design and implementation).
 
 <!--
 **mseruntine/mseruntine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
