@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel Seruntine, I'm a LSU '24 Computer Science major with a concentration in Software Engineering. I have 3 years of professional development experience, including web application projects built in Typescript, Javascript, React.js, Microsoft .NET Framework, Typescript, PHP, and of course HTML and CSS. 
+My name is Miguel Seruntine, I'm a LSU '24 Computer Science graduate with a concentration in Software Engineering. I have 3 years of professional development experience, including web application projects built in Typescript, Javascript, React.js, Microsoft .NET Framework, Typescript, PHP, and of course HTML and CSS. 
 
 I have a lot of interests, and when I'm not working on being a better developer during the weekday, I'm playing music professionally on the weekends in my favorite city on the planet, New Orleans, Louisiana. 
 
