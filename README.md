@@ -2,6 +2,8 @@
 
 My name is Miguel Seruntine, I'm a LSU '24 Computer Science graduate with a concentration in Software Engineering. I have 3 years of professional development experience, including web application projects built in Typescript, Javascript, React.js, Microsoft .NET Framework, Typescript, PHP, and of course HTML and CSS. 
 
+Currently, I am a Junior Software Engineer at Zenith Software! Very proud to be on such a talented development team!
+
 I have a lot of interests, and when I'm not working on being a better developer during the weekday, I'm playing music professionally on the weekends in my favorite city on the planet, New Orleans, Louisiana. 
 
 I've included a repository to a project I was a part of for my senior year software implementation class called Indie Blue. This project was something I was super proud of, and I thoroughly enjoyed being able to help design and implement the front-end of the application. My colleagues I worked alongside with to work on the application were Bryce Doyle (Team lead), Calvin Feldt (Front-end design, implementation), and Nick Caplette (Database, back-end design and implementation).
